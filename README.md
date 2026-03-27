@@ -1,3 +1,5 @@
+please view readme as code
+
 **key findings:**
 73% of anomalies earn their alpha primarily overnight. Only 9% are intraday-dominant. The remaining 19% are mixed.
 The scatter plot in the output folder shows overnight annual alphah vs intraday annual alpha for 162 anomalies. |
